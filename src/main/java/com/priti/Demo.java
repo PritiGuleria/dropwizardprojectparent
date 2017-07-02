@@ -6,6 +6,6 @@ package com.priti;
 public class Demo {
 
     public static void main(String[] args) {
-        System.out.println("Kya main such me pagal hun ?? Bolo bolo bolo na");
+        System.out.println("Test");
     }
 }
